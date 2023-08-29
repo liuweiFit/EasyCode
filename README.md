@@ -1,8 +1,8 @@
-# EasyCode
+# WholeProcessTool
 
-### EasyCode能做什么？
+### WholeProcessTool能做什么？
 
-EasyCode是基于IntelliJ IDEA Ultimate版开发的一个代码生成插件，主要通过自定义模板（基于velocity）来生成各种你想要的代码。通常用于生成Entity、Dao、Service、Controller。如果你动手能力强还可以用于生成HTML、JS、PHP等代码。理论上来说只要是与数据有关的代码都是可以生成的。
+WholeProcessTool是基于IntelliJ IDEA Ultimate版开发的一个代码生成插件，主要通过自定义模板（基于velocity）来生成各种你想要的代码。通常用于生成Entity、Dao、Service、Controller。如果你动手能力强还可以用于生成HTML、JS、PHP等代码。理论上来说只要是与数据有关的代码都是可以生成的。
 
 ### 使用环境
 `IntelliJ IDEA Ultimate版（172+）`
@@ -58,7 +58,7 @@ EasyCode是基于IntelliJ IDEA Ultimate版开发的一个代码生成插件，�
 
 首先在IDEA右边找到数据库工具，点击加号添加好对应的数据源
 
-接着在要生成表上面右键，就可以看到EasyCode菜单，以及子菜单（Generate Code,Config Table）生成代码与配置表。
+接着在要生成表上面右键，就可以看到WholeProcessTool菜单，以及子菜单（Generate Code,Config Table）生成代码与配置表。
 
 ![输入图片说明](../../raw/master/%E6%95%99%E7%A8%8B%E5%9B%BE%E7%89%87/%E5%8D%95%E8%A1%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90.gif "单表代码生成.gif")
 

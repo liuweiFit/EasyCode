@@ -28,7 +28,7 @@ dependencies {
 
 intellij {
 //    插件名称
-    pluginName 'EasyCode'
+    pluginName 'WholeProcessTool'
     version '2018.1.5'
     type 'IU'
 //    plugins ['com.intellij.database:2018.1.5']

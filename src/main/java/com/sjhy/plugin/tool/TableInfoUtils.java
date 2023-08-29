@@ -68,7 +68,7 @@ public class TableInfoUtils extends AbstractService {
     /**
      * 保存的相对路径
      */
-    private static final String SAVE_PATH = "/.idea/EasyCodeConfig";
+    private static final String SAVE_PATH = "/.idea/WholeProcessToolConfig";
 
     /**
      * 处理方法，默认加载配置

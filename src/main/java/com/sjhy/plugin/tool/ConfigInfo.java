@@ -22,7 +22,7 @@ import java.util.jar.JarFile;
  * @since 2018/07/18 09:33
  */
 @Data
-@State(name = "EasyCodeSetting", storages = @Storage("easy-code-setting.xml"))
+@State(name = "WholeProcessToolSetting", storages = @Storage("easy-code-setting.xml"))
 public class ConfigInfo implements PersistentStateComponent<ConfigInfo> {
     /**
      * 默认名称
